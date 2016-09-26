@@ -1,0 +1,17 @@
+body{
+	background-color: black;
+}
+
+.red{
+	color:red;
+	background-color: blue;
+	font-size: 20px;
+}
+
+#blue{
+	color:blue;
+	text-transform: uppercase;
+	text-decoration: line-through;
+	font-family: "Impact", "Arial Black", serif;
+	font-size: 50px;
+}
