@@ -1,0 +1,17 @@
+#text{
+  border: lightblue 2px dashed;
+  margin: 0px 0px 0px 20px;
+}
+#picture{
+  border: white 3px dashed;
+  margin: 2px 2px 2px 0px;
+  padding: 5px;
+}
+#wrapper{
+  border: black 2px solid;
+  margin: 100px 100px 100px 100px;
+  padding: 20px;
+}
+body{
+  background-color: blue;
+}
