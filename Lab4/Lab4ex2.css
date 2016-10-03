@@ -1,0 +1,29 @@
+#border{
+  border: purple 1px dashed;
+  margin: 10px 10px 10px 10px;
+  padding-top: 400px;
+  padding right: 600px;
+  padding-bottom: 1px;
+}
+
+.text{
+  text-align: center;
+}
+
+.font{
+  font-size: 30px;
+  color: red;
+}
+
+.font2{
+  font-size: 20px;
+  color: orange;
+  vertical-align: super;
+}
+
+.font3{
+  font-size: 10px;
+  color: purple;
+  text-align: right;
+  margin-top: 200px;
+}
