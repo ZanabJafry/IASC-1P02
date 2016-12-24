@@ -1,0 +1,62 @@
+.header {
+  position: relative;
+  left: 70px;
+}
+
+
+.nested {
+  color: purple;
+}
+
+
+.grouped, .groupedAgain {
+
+  color: blue;
+}
+.first {
+
+  color: orange;
+
+}
+
+.second {
+  font-size: 100px;
+
+}
+
+.third {
+  font-family: fantasy;
+}
+
+.fourth {
+
+  text-transform: uppercase;
+
+}
+
+.fifth {
+
+position: fixed;
+left: 2px;
+}
+
+.sixth {
+
+  position: absolute;
+  left: 5px;
+
+
+}
+
+.seventh {
+
+  position; relative;
+  left: 500px;
+
+    width: 300px;
+    border: 10px solid green;
+    padding: 5px;
+    margin: 25px;
+
+
+}
